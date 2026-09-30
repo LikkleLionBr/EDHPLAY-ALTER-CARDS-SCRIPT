@@ -7,7 +7,8 @@ window.ART_REPLACEMENTS = {
     "https://cards.scryfall.io/normal/front/9/e/9ecadcd7-f40d-4c4e-b897-366c7bcae5f1.jpg?1783941181": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Damia_smol.png",
     "https://cards.scryfall.io/small/front/f/1/f1caccc8-4f33-4ae3-a09a-b41b9c4663a1.jpg?1783921798": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Varina_smol.png",
     "https://cards.scryfall.io/normal/front/f/1/f1caccc8-4f33-4ae3-a09a-b41b9c4663a1.jpg?1783921798": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Varina_smol.png",
-
+    "https://cards.scryfall.io/small/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Myrkul_smol.png",
+    "https://cards.scryfall.io/normal/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Myrkul_smol.png",
     
     
     
