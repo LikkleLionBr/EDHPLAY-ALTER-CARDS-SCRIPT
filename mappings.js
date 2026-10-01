@@ -9,10 +9,12 @@ window.ART_REPLACEMENTS = {
     "https://cards.scryfall.io/normal/front/f/1/f1caccc8-4f33-4ae3-a09a-b41b9c4663a1.jpg?1783921798": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Varina_smol.png",
     "https://cards.scryfall.io/small/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Myrkul_smol.png",
     "https://cards.scryfall.io/normal/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Myrkul_smol.png",
-    "https://cards.scryfall.io/small/front/5/a/5a7241f5-4d69-47fe-b037-95037008184c.jpg?1787676961": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Pir_smol.png",
-    "https://cards.scryfall.io/normal/front/5/a/5a7241f5-4d69-47fe-b037-95037008184c.jpg?1787676961": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Pir_smol.png",
-    "https://cards.scryfall.io/art_crop/front/5/a/5a7241f5-4d69-47fe-b037-95037008184c.jpg?1787676961": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/pir_and_toothy_art_crop.jpg"
+    "https://cards.scryfall.io/small/front/5/3/5371fce8-c62f-4e34-9a3d-34a53eb612dc.jpg?1787676961": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Pir_smol.png",
+    "https://cards.scryfall.io/normal/front/5/3/5371fce8-c62f-4e34-9a3d-34a53eb612dc.jpg?1787676961": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Pir_smol.png",
+    "https://cards.scryfall.io/art_crop/front/5/3/5371fce8-c62f-4e34-9a3d-34a53eb612dc.jpg?1787676961": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/pir_and_toothy_art_crop.jpg",
     "https://cards.scryfall.io/small/front/e/b/ebdf2f50-f69a-47c4-a75f-ff55781bb0c8.jpg?1783934877": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Toothy_smol.png",
     "https://cards.scryfall.io/normal/front/e/b/ebdf2f50-f69a-47c4-a75f-ff55781bb0c8.jpg?1783934877": "https://raw.githubusercontent.com/LikkleLionBr/EDHPLAY-ALTER-CARDS-SCRIPT/refs/heads/main/Toothy_smol.png",
-    // Add more cards here whenever you want!
+
+        // Add more cards here following the exact same layout!
+    };
 };
